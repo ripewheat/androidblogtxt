@@ -1,0 +1,90 @@
+http://www.520monkey.com/   这个播客的博主出了本书《Android应用安全防护和逆向分析》
+
+https://www.liaohuqiu.net/cn/posts/android-windows-manager/   悬浮窗小节
+
+简书博客
+https://www.jianshu.com/u/a89753a4c00b
+https://www.cnblogs.com/Im-Victor/category/931201.html
+https://www.cnblogs.com/bluestorm/category/344568.html
+https://blog.csdn.net/lakebobo/category_7104919.html
+https://www.cnblogs.com/android-deli/category/1390793.html
+https://www.jianshu.com/u/00b25c511dd3
+https://me.csdn.net/nnmmbb
+
+https://jingbin.me/2016/11/22/%E5%8F%AF%E8%83%BD%E6%98%AF%E8%AE%B2%E8%A7%A3Android%E4%BA%8B%E4%BB%B6%E5%88%86%E5%8F%91%E6%9C%80%E5%A5%BD%E7%9A%84%E6%96%87%E7%AB%A0/  可能是讲解Android事件分发最好的文章 
+
+https://www.iteye.com/blog/byandby-830737  android 图像缩放 
+
+http://wuxiaolong.me/2016/08/20/Paint/   Android 画笔Paint 
+
+
+https://fandazeng.github.io/2018/09/28/android/view/%E7%BB%98%E5%88%B6%E6%96%87%E6%9C%AC/   Paint绘制文本
+
+
+https://www.cnblogs.com/vaiyanzi/archive/2011/12/06/2277791.html   android TextView 垂直自动滚动
+
+
+https://yuqirong.me/2016/03/22/%E5%BF%AB%E9%80%9F%E6%89%93%E9%80%A0%E4%BB%BFAndroid%E8%81%94%E7%B3%BB%E4%BA%BA%E7%95%8C%E9%9D%A2/    快速打造仿Android联系人界面 
+
+https://blog.csdn.net/gao_chun/article/details/48550117    
+RecyclerView使用 及 滑动时加载图片优化方案
+
+
+https://blog.csdn.net/gao_chun/article/details/48202847   StickerCamera + 仿微信多图选择
+
+recylerview
+http://frank-zhu.github.io/android/2015/02/25/android-recyclerview-part-2/
+https://www.jianshu.com/p/ec6585e5220d
+https://segmentfault.com/a/1190000010722635
+https://www.cherylgood.cn/detail/5b6d58004a41f0000f05602b.html
+https://www.cnblogs.com/Fndroid/p/5789470.html
+https://blog.csdn.net/dg_summer/article/details/77965287
+
+github
+https://github.com/PhanVanLinh
+
+
+单独知识
+https://mp.weixin.qq.com/s?__biz=MzA5MzI3NjE2MA==&mid=2650245817&idx=1&sn=f2fd740c08d46ac17e6fff97953815b4&chksm=88637bd6bf14f2c08c0dc39d2e7f2b25783bc0c4c7600b2a7849fce083337c38d2e848549a14&xtrack=1&scene=90&subscene=93&sessionid=1557363923&clicktime=1557364877&ascene=56&devicetype=android-26&version=2700043a&nettype=WIFI&abtest_cookie=BAABAAoACwASABMABQDDmR4A3JkeAOGZHgD6mR4AAZoeAAAA&lang=zh_CN&pass_ticket=j%2BJFL40Lzh2%2BfdrOQudTYLtWN6VALXvzT73%2FgX%2FCk5ZgJRzWzUa8R96KLyxog%2Fug&wx_header=1
+https://www.jianshu.com/p/c9a83decb314
+
+http://www.jcodecraeer.com/a/anzhuokaifa/androidkaifa/2015/0501/2822.html
+
+https://juejin.im/post/5ce651d4f265da1bb13f0a5b
+
+https://stackoverflow.com/questions/24618829/how-to-add-dividers-and-spaces-between-items-in-recyclerview/39728105
+http://jackzhang.info/page2/
+https://chris.banes.dev/2019/12/03/suspending-views/
+
+merge标签
+https://www.cnblogs.com/whycxb/p/4889129.html
+
+编程是一种爱好
+https://blog.csdn.net/icodeyou/article/list
+
+https://www.jianshu.com/p/f521e944da90  recycle核心要点
+
+https://www.lagou.com/lgeduarticle/74704.html  解决Android的onClick与onTouch冲突
+
+启发性
+
+https://drprincess.github.io/2018/04/20/Android-%E6%80%8E%E4%B9%88%E8%AE%A9%E4%B8%80%E4%B8%AATextView%E6%98%BE%E7%A4%BA%E4%B8%A4%E7%A7%8D%E6%A0%B7%E5%BC%8F%E7%9A%84%E5%AD%97%E4%BD%93/
+https://drprincess.github.io/2018/04/17/Android-EditText%E6%A0%B7%E5%BC%8F&%E8%BD%AF%E9%94%AE%E7%9B%98&%E8%BE%93%E5%85%A5%E9%99%90%E5%88%B6%E5%BC%80%E5%8F%91%E7%BB%86%E8%8A%82%E6%B1%87%E6%80%BB/
+
+
+git学习
+https://gitbook.tw/
+https://www.kancloud.cn/xiak/github/216762
+
+
+jvm学习
+https://www.bilibili.com/video/av83622425/
+
+
+视频教程
+https://studygolang.com/topics/6151
+
+
+云盘万能钥匙
+http://tools.bugscaner.com/baiduyunpassword/
+

@@ -1,0 +1,213 @@
+http://www.aixx123.com/
+https://github.com/h6ah4i/android-advancedrecyclerview  recyclerview 例子
+https://github.com/nusr/hacker-laws-zh
+https://www.ibm.com/developerworks/cn/java/j-concurrent/  Java 多线程与并发编程专题
+https://github.com/crazyzhangxl/DesignView 安卓自定义View学习项目——各种指示器ViewPagerIndicator
+https://github.com/crazyzhangxl/KeyBoardDemo  仿58同城自定义电话软键盘效果
+https://github.com/crazyzhangxl/ScrollDemo   有关滑动的demo样例
+https://blog.csdn.net/crazyZhangxl/article/details/100736126  Android popupwindow技术储备
+
+https://blog.csdn.net/crazyZhangxl/article/details/81195593  Android window弹窗小结
+http://ddrv.cn/a/38396   Android自定义底部弹出窗-dialog(2种实现分析+源码)
+http://www.czhzero.com/2016/07/31/android-6-0-changes/  解读Android6.0新功能和Api变更
+http://codemanage.blogspot.com/2016/04/customize-request-format-in-soap-using.html  Customize Request format in SOAP using ksoap library in Android
+
+https://github.com/guanpengchn/awesome-books   开发者推荐阅读的书籍
+https://github.com/nishkarsh/android-wificonnect   android-wificonnect
+https://github.com/Chrisvin/LiquidSwipe
+https://github.com/amdelamar/jhash
+https://github.com/nglauber/books_jetpack
+https://blog.csdn.net/csdn_aiyang/article/details/85780925 Android 5.0、6.0、7.0、8.0、9.0 新特性，DownloadManager踩坑记
+https://github.com/codeKon/Library
+https://github.com/NetchX/Netch/blob/master/docs/README.zh-CN.md
+
+
+https://github.com/MeandNi/Android-Daily-Interview android面试题
+https://blog.csdn.net/H_Gao
+https://juejin.im/user/5bc6cb81f265da0aac700ced/likes
+http://www.ishenping.com/ArtInfo/1080242.html  弹窗
+
+
+双通道
+https://windows-hexerror.linestarve.com/q/so53785780-AndroidWifiModulejava-uses-o-r-overrides-a-deprecated-API 
+https://www.javatips.net/api/android.net.network
+https://teratail.com/questions/190674
+https://stackoverflow.com/questions/36653126/send-request-over-wifi-without-connection-even-if-mobile-data-is-on-with-conn/51469732#51469732
+https://www.twblogs.net/a/5b8d751c2b717718833e21b2/zh-cn
+https://blog.csdn.net/kangear/article/details/80547073
+https://blog.csdn.net/qq_35114086/article/details/81805064
+https://yous.be/2013/12/07/how-to-check-and-toggle-wifi-or-3g-4g-state-in-android/
+
+
+https://github.com/cloudmobi/AndroidSDK/blob/master/AndroidSDK_Integration_Guide.md  android sdk
+https://github.com/doubledotlabs/doki?utm_source=androidweekly.io&utm_medium=website
+
+
+下载
+https://www.dalipan.com/detail/dc3578959b09e3344aa5570ba0960aee
+https://www.yunpanjingling.com/resources/5d34f8364b3f41284d6ab2c2
+https://github.com/budaLi/-Learning-materials-
+https://github.com/MegatronKing/NetBare
+https://www.dalipan.com/detail/f92d7646e4e4c5df9502927e3676cfc5
+
+
+翻墙
+https://crifan.github.io/scientific_network_summary/website/server_client_mode/ss_client/ss_clients/ss_windows.html?q=
+https://www.quchao.net/ShadowsocksR.html
+https://moe.best/tutorial/shadowsocksr.html
+
+https://i.ijrou.com/
+
+系统
+https://wertherzhang.com/android-ab-system-update/
+
+
+
+
+http://www.xetlab.com/2019/03/26/%E9%98%BF%E9%87%8C%E6%AF%95%E7%8E%84-%E6%B5%8B%E8%AF%95Java%E7%BC%96%E7%A8%8B%E8%83%BD%E5%8A%9B-%E6%88%91%E7%9A%84%E5%9B%9E%E7%AD%94%EF%BC%88%E4%B8%80%EF%BC%89/
+
+matplotlib
+https://www.shiyanlou.com/courses/1093
+
+python
+https://blog.csdn.net/Sagittarius_Warrior
+https://zhuanlan.zhihu.com/p/65829981
+https://www.chainnews.com/articles/964633052193.htm
+http://blog.hszofficial.site/TutorialForPython/%E5%B7%A5%E5%85%B7%E9%93%BE%E7%AF%87/
+http://www.1zlab.com/wiki/python-opencv-tutorial/opencv-mac-environment/
+https://github.com/xiexiaoshinick/Data-Presentation
+http://www.ravedonut.com/archives/category/programme/python/page/3
+https://www.machinelearningplus.com/plots/matplotlib-tutorial-complete-guide-python-plot-examples/
+https://jakevdp.github.io/PythonDataScienceHandbook/04.01-simple-line-plots.html
+https://www.astro.umass.edu/~schloerb/ph281/Lectures/Matplotlib/Matplotlib.pdf
+https://matplotlib.org/tutorials/introductory/pyplot.html
+https://www.astro.umass.edu/~schloerb/ph281/programs.html
+https://blog.csdn.net/qq_31192383/article/details/53977822
+https://codingpy.com/article/a-quick-intro-to-matplotlib/
+https://www.runoob.com/numpy/numpy-array-from-existing-data.html
+https://www.cnblogs.com/zyg123/p/10504637.html
+
+https://www.imooc.com/article/23969
+https://android-developers.googleblog.com/2011/04/customizing-action-bar.html
+http://tao93.top/2018/12/22/Android%20Toast%20%E4%B8%A4%E4%B8%AA%20Crash/
+
+
+https://blog.51cto.com/4259297/2177538
+https://blog.csdn.net/brucexia/article/details/88934847
+
+android源码分析https://yuqirong.me/
+
+git
+http://gitqwerty777.github.io/git-commands/
+
+
+https://blog.csdn.net/zhongkejingwang/article/details/38513301
+https://blog.51cto.com/liuyvhao/1790237
+https://github.com/BlackBoxVision/datetimepicker-edittext
+
+http://glanwang.com/
+
+面试
+https://github.com/pengMaster/BestNote/tree/master/docs/android/Android-Interview
+
+https://github.com/kongzue/Dialog
+
+https://blog.csdn.net/Mr___Xu/article/details/94601837
+https://blog.csdn.net/Mr___Xu/article/details/101299131
+https://github.com/wiyarmir/kotlin-multiplatform-mobile-template
+
+悬浮球
+https://github.com/huxq17/FloatBall
+https://github.com/zhaozepeng/FloatWindowPermission
+https://blog.csdn.net/self_study/article/details/52859790
+
+https://github.com/warkiz/IndicatorSeekBar/blob/master/README_zh.md
+
+
+https://github.com/PatilShreyas/MaterialDialog-Android
+https://github.com/Foso/Jetpack-Compose-Playground
+https://github.com/VMadalin/kotlin-sample-app
+https://github.com/Kr328/ClashForAndroid
+https://github.com/saket/Dank
+https://github.com/nikhilpanju/FabFilter
+
+
+https://www.cnblogs.com/windel/p/9977572.html  下载
+
+
+
+https://www.cnblogs.com/zengjfgit/p/5244402.html
+https://www.jianshu.com/p/86d347b2a12b
+https://github.com/panxu/network_monitor_demo
+
+
+
+https://github.com/eleme/lancet/blob/develop/README_zh.md
+https://github.com/java-diff-utils/java-diff-utils
+https://github.com/Fitbit/bitgatt
+https://github.com/florent37/ShapeOfView
+https://zhuanlan.zhihu.com/p/32322836
+https://github.com/Blankj/AndroidOfferKiller
+
+
+
+https://www.journaldev.com/14748/android-textinputlayout-example
+https://github.com/StylingAndroid/TextInputLayout
+
+侧滑
+
+https://codinginflow.com/tutorials/android/room-viewmodel-livedata-recyclerview-mvvm/part-8-swipe-to-delete
+https://blog.iamsuleiman.com/android-pagination-tutorial-swipe-to-refresh/
+https://github.com/Suleiman19/Android-Pagination-with-RecyclerView/tree/46be39351bc7366061797fb2545686b141c1779c
+https://blog.csdn.net/a553181867/article/details/54799391
+https://forums.bignerdranch.com/t/chapter-17-adding-swipe-to-dismiss/13183
+https://www.jianshu.com/p/af9f940d8d1c
+https://www.youtube.com/watch?v=oFsZKFW6YmM
+https://mindorks.com/android/store/Recycler-Views/ernestoyaquello/drag-drop-swipe-recyclerview
+https://androidmonks.com/recyclerview-swipe-delete-undo/
+https://medium.com/@zackcosborn/step-by-step-recyclerview-swipe-to-delete-and-undo-7bbae1fce27e
+https://medium.com/@kitek/recyclerview-swipe-to-delete-easier-than-you-thought-cff67ff5e5f6
+https://android.jlelse.eu/android-recyclerview-swipeable-items-46a3c763498d
+https://github.com/MarkOSullivan94/SwipeRevealLayoutExample
+https://www.journaldev.com/23164/android-recyclerview-swipe-to-delete-undo
+https://developer.android.com/reference/androidx/recyclerview/widget/ItemTouchHelper.Callback
+https://www.androidhive.info/2017/09/android-recyclerview-swipe-delete-undo-using-itemtouchhelper/
+https://codeburst.io/android-swipe-menu-with-recyclerview-8f28a235ff28
+https://github.com/FanFataL/swipe-controller-demo
+https://github.com/nemanja-kovacevic/recycler-view-swipe-to-delete
+
+
+http://www.cppcns.com/ruanjian/android/224012.html
+https://www.jianshu.com/p/5f4dafc9d8ec
+https://github.com/fccaikai/BottomMenuTutorial
+https://github.com/yeluowuhen52/MyFlipperBottomDialog
+
+
+https://github.com/linsir6/AndroidNote
+
+
+https://ke.qq.com/course/422178?taid=3418351586406690
+
+
+https://github.com/muxi166/Animer
+https://www.zhihu.com/question/334061990/answer/791197341
+
+
+https://blog.csdn.net/u012400885/article/details/80426117
+https://qiita.com/takusan_23/items/7aa7ea8da7ff235451b3
+
+
+百度网盘：https://pan.baidu.com/s/1iwsVvE_Uhqq6tImAKp_-bw
+
+备用地址：https://pan.baidu.com/s/1ONVTveW-R60TmWNaukpQuw
+
+
+https://pan.baidu.com/s/1eSJNARg#list/path=%2F&parentPath=%2FJAVA%2F%E5%BC%A0%E5%AD%9D%E7%A5%A5  张孝祥-7K月薪面试题破解之一_交通灯管理
+https://pan.baidu.com/s/1Fzu3We6fVfPdLoVp7rrfRw#list/path=%2Fsharelink4029676449-215220475968314%2F%E4%BC%A0%E6%99%BA%E6%92%AD%E5%AE%A2_2014%E5%B9%B4Java%E5%9F%BA%E7%A1%80%E7%8F%AD%E8%A7%86%E9%A2%91%E7%B2%BE%E5%8D%8E%E7%89%88&parentPath=%2Fsharelink4029676449-215220475968314  传智播客_2014年Java基础班视频精华版
+https://pan.baidu.com/s/1VUIWb3BhyZTru9e0wKZl0A#list/path=%2Fsharelink2600775877-1083735547885903%2FAndroid%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88&parentPath=%2Fsharelink2600775877-1083735547885903
+https://pan.baidu.com/s/1eDP4R#list/path=%2Fsharelink3758585840-78972972414244%2F2Android%E5%B7%A5%E7%A8%8B%E5%B8%88&parentPath=%2Fsharelink3758585840-78972972414244
+
+https://pan.baidu.com/s/1pKW0Ymf#list/path=%2Fsharelink2358321616-175715378417049%2F79%E5%A4%A9%E8%9C%95%E5%8F%98Android%E5%AE%89%E5%8D%93%E7%B3%BB%E7%BB%9F%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88&parentPath=%2Fsharelink2358321616-175715378417049  79天蜕变Android安卓系统软件开发工程师
+
+
+
